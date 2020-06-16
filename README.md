@@ -1,4 +1,5 @@
 # Microsoft Threat Protection Advance Hunting Cheat Sheet
+**Current version: 0.1**
 
 The purpose of this cheat sheet is to cover commonly used threat hunting queries that can be used with Microsoft Threat Protection. Microsoft Threat Protection has a threat hunting capability that is called Advance Hunting (AH). AH is based on Azure Kusto Query Language (KQL).
 
