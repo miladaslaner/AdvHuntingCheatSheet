@@ -8,11 +8,11 @@ The purpose of this cheat sheet is to cover commonly used threat hunting queries
 
 ## Acknowlegements 
 
-[PowershellPoet](https://twitter.com/PowershellPoet)
-[maarten_goet](https://twitter.com/maarten_goet)
-[pawp81](https://twitter.com/pawp81)
-[Bakk3rM](https://twitter.com/Bakk3rM)
-[MicrosoftMTP](https://twitter.com/MicrosoftMTP)
+- [PowershellPoet](https://twitter.com/PowershellPoet)
+- [maarten_goet](https://twitter.com/maarten_goet)
+- [pawp81](https://twitter.com/pawp81)
+- [Bakk3rM](https://twitter.com/Bakk3rM)
+- [MicrosoftMTP](https://twitter.com/MicrosoftMTP)
 
 ## Recommended Reading & Training
 
